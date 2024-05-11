@@ -1,0 +1,14 @@
+.historyList {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.table {
+    border-collapse: collapse;
+    width: 80%; /* Ширина таблицы (можете настроить по своему усмотрению) */
+}
+.th, .td {
+    border: 1px solid black;
+    padding: 8px;
+}
